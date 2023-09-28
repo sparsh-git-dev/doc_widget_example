@@ -1,0 +1,127 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Storegjghjg
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/ghj
+ffhfhfhfhfhfghhg bmbbmbmbmbmbmbnmbmbmbmbkhkhkhkhj
+gggigigig
+
+vjjhjjvv
+Sdscs
+dsdsds
+sfsdfsdf
+sfsdfsdffDSF
+dsFS
+fsdFSD
+fsdFSDDSdsF
+dsfSDF
+dsfSDFsdF
+sfsdfsdffDSFdsfdss
+fsdFSDDSdsFsdf
+Sdscsf
+sfsdfsdffDSFdsfdssf
+sfsdfsdffDSFdsfdsssdf
+s
+ffhfhfhfhfhfghhgs
+ffhfhfhfhfhfghhgs
+sfsdfsdffDSFdsfdsssdfs
+ffhfhfhfhfhfghhgs
+ffhfhfhfhfhfghhgsf
+sfsdfsdffDSFdsfdsssdffs
+sfsdfsdffDSFdsfdss
+dsfSDFsdF
+sfsdfsdffDSFdsfdsssdffsf
+ffhfhfhfhfhfghhg
+
+ffhfhfhfhfhfghhgff
+
+f
+ffhfhfhfhfhfghhg
+ffhfhfhfhfhfghhg
+fsdFSD
+sfsdfsdf
+artifacts
+storsa
+and
+
+
+
+sfsdfsdf
+/dsfd/fdfdfd/dfd
+sddsdg
+dfgdf
+gd
+gdfg
+dfgdfdf
+gddg
+dfgdfg
+dfgdfdfgd
+gddf
+d
+
+dart_tool
+gddgdf
+gdfgd
+gdfgg
+dfgdfdfgdg
+dfgdfd
+khkh
+ jgjg 'hl
+ 
+ jljlj khjkh kl
+ hjkhkh
+ hjkhjk
+ hjlj
+ 
+ hghgjgj
+ 
+ hjhhlh
+ lhlhj
+ bmkhkhjkh
+ghkhgghkhkhkhjkhjkhjkhkhkhkhkhkkhkhkhkhhkhkhkhkhkhkhkhk
+jgjgjgjjdh sg sggdggd 
+dydfffhfhfhfhfhfhfhfhfhffhfhhfhfhf
+hffggxgxg x ggcgg gxg
+
+gfgjfjjjgjjgv nm mhm m 
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+d
